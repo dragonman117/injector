@@ -1,6 +1,10 @@
 Injector Change Log
 ===================
 
+0.23.0
+------
+- Added content from https://github.com/python-injector/injector/pull/197 for a private release
+
 0.22.0
 ------
 

@@ -32,6 +32,7 @@ from injector import (
     CallError,
     Inject,
     Injector,
+    MultiBindClassProvider,
     NoInject,
     Scope,
     InstanceProvider,
